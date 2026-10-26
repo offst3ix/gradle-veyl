@@ -1,0 +1,15 @@
+.gradle/
+build/
+**/build/
+**/bin/
+out/
+*.iml
+.idea/
+.vscode/
+*.log
+local.properties
+gradle.properties
+*.keystore
+*.jks
+.env
+.env.*
