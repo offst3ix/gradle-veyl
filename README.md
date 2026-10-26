@@ -1,6 +1,6 @@
 # gradle-veyl
 
-Gradle plugin for [Veyl](https://veyl.sh) — upload your project JAR for **server-side** Java bytecode obfuscation during the build.
+Gradle plugin for [Veyl](https://veyl.st3ix.net) — upload your project JAR for **server-side** Java bytecode obfuscation during the build.
 
 **Plugin ID:** `net.st3ix.veyl`  
 **Latest:** `1.0.8`  

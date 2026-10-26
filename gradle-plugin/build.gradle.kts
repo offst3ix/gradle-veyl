@@ -15,7 +15,7 @@ tasks.named<Jar>("jar") {
 }
 
 gradlePlugin {
-  website = "https://veyl.sh"
+  website = "https://veyl.st3ix.net"
   vcsUrl = "https://github.com/offst3ix/gradle-veyl"
   plugins {
     create("veyl") {
