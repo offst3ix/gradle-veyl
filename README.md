@@ -3,7 +3,7 @@
 Gradle plugin for [Veyl](https://veyl.st3ix.net) — upload your project JAR for **server-side** Java bytecode obfuscation during the build.
 
 **Plugin ID:** `net.st3ix.veyl`  
-**Latest:** `1.0.8`  
+**Latest:** `1.0.9`  
 **Docs:** [Getting started](http://docs.st3ix.net/docs/plugins/veyl/getting-started)
 
 ## Requirements
@@ -31,7 +31,7 @@ pluginManagement {
 ```kotlin
 plugins {
   java
-  id("net.st3ix.veyl") version "1.0.8"
+  id("net.st3ix.veyl") version "1.0.9"
 }
 
 veyl {
@@ -47,7 +47,7 @@ Groovy:
 ```groovy
 plugins {
   id 'java'
-  id 'net.st3ix.veyl' version '1.0.8'
+  id 'net.st3ix.veyl' version '1.0.9'
 }
 
 veyl {
